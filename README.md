@@ -1,2 +1,2 @@
 # C&CplusplusSpecialization
-The practice of Coursera course series  C/C++Specialization
+The practices of Coursera course series C/C++ Specialization
